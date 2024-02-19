@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\obj\Debug\net6.0\SodukoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\obj\Debug\net6.0\SodukoProject.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\obj\Debug\net6.0\SodukoProject.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\obj\Debug\net6.0\SodukoProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\bin\Debug\net6.0\SodukoProject.exe
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\bin\Debug\net6.0\SodukoProject.deps.json
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\bin\Debug\net6.0\SodukoProject.runtimeconfig.json
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\bin\Debug\net6.0\SodukoProject.dll
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\bin\Debug\net6.0\SodukoProject.pdb
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\obj\Debug\net6.0\SodukoProject.dll
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\obj\Debug\net6.0\refint\SodukoProject.dll
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\obj\Debug\net6.0\SodukoProject.pdb
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\obj\Debug\net6.0\SodukoProject.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Soduko2\SodukoProject\obj\Debug\net6.0\ref\SodukoProject.dll
